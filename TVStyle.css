@@ -179,7 +179,7 @@ body {
   filter: sepia(113%); */
 }
 
-.video-base-shadow {
+/* .video-base-shadow {
   position: absolute;
   z-index: 9999;
   display: -webkit-box;
@@ -198,9 +198,10 @@ body {
   border-width: 37px;
   border-color: #000;
   border-radius: 20px;
-  -webkit-filter: blur(8px);
+   -webkit-filter: blur(8px);
   filter: blur(8px);
-}
+} */
+
 
 .shadow-controlers-block {
   position: absolute;
@@ -731,8 +732,8 @@ body {
   align-items: center;
   border: 8px solid #000;
   border-radius: 20px;
-  -webkit-filter: blur(10px) sepia(113%);
-  filter: blur(10px) sepia(113%);
+  /* -webkit-filter: blur(10px) sepia(113%);
+  filter: blur(10px) sepia(113%); */
 }
 
 
